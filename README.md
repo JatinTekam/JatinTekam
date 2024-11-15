@@ -10,16 +10,16 @@ I'm a passionate ***Software Developer*** and ***Front-End Developer*** focused 
 - 🎨 Always experimenting with new technologies and design patterns
 
 ## 🛠️ Technologies & Tools
-
-| Technology       | Experience Level    |                                                                                               
-|------------------|---------------------|
-| HTML             | ![HTML Badge](https://img.shields.io/badge/-HTML-3A8E2D?style=flat&logo=html5&logoColor=fff) |
-| CSS              | ![CSS Badge](https://img.shields.io/badge/-CSS-3A8E2D?style=flat&logo=css3&logoColor=fff) |
-| JavaScript       | ![JS Badge](https://img.shields.io/badge/-JavaScript-3A8E2D?style=flat&logo=javascript&logoColor=fff) |
-| React            | ![React Badge](https://img.shields.io/badge/-React-3A8E2D?style=flat&logo=react&logoColor=fff) |
-| Vue.js           | ![Vue Badge](https://img.shields.io/badge/-Vue.js-3A8E2D?style=flat&logo=vuedotjs&logoColor=fff) |
-| Git              | ![Git Badge](https://img.shields.io/badge/-Git-3A8E2D?style=flat&logo=git&logoColor=fff) |
-| Node
+<div>
+  <img src="https://github.com/saarthack/portfolio/blob/main/images/html-min.png" width="50px">
+  <img src="https://github.com/saarthack/portfolio/blob/main/images/css-min.png" width="50px">
+  <img src="https://github.com/saarthack/portfolio/blob/main/images/js-min.png" width="50px">
+  <img src="https://github.com/saarthack/portfolio/blob/main/images/React-icon.svg.png" width="50px">
+  <img src="https://github.com/saarthack/portfolio/blob/main/images/MySQL-min.png" width="50px">
+  <img src="https://github.com/saarthack/portfolio/blob/main/images/java-logo-1.png" width="50px">
+  <img src="https://github.com/saarthack/portfolio/blob/main/images/mongodb-min.png" width="50px">
+  <img src="https://github.com/saarthack/portfolio/blob/main/images/node-min.png" width="50px">
+</div>
 ## 🌟 Projects
 
 ### [Project Name 1](https://github.com/yourusername/project1)
