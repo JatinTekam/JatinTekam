@@ -40,7 +40,7 @@ I'm a passionate ***Software Developer*** and ***Front-End Developer*** focused 
 ## 📫 Get in Touch
 
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**:(linkedin.com/in/jatin-tekam)
 - **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 ## 💼 Resume
