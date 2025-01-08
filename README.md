@@ -22,7 +22,7 @@ I'm a passionate ***Software Developer*** and ***Front-End Developer*** focused 
 </div>
 ## 🌟 Projects
 
-### [Project Name 1](https://github.com/yourusername/project1)
+### [Weather Website](https://github.com/yourusername/project1)
 > A brief description of what this project does and its key features.
 
 ### [Project Name 2](https://github.com/yourusername/project2)
