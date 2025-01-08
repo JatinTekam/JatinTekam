@@ -20,10 +20,15 @@ I'm a passionate ***Software Developer*** and ***Front-End Developer*** focused 
   <img src="https://github.com/saarthack/portfolio/blob/main/images/mongodb-min.png" width="50px">
   <img src="https://github.com/saarthack/portfolio/blob/main/images/node-min.png" width="50px">
 </div>
-## 🌟 Projects
 
-### [Weather Website](https://github.com/yourusername/project1)
-> A brief description of what this project does and its key features.
+<h3>Projects</h3>
+
+### [1. Weather Website](https://github.com/JatinTekam/Weather-Website)
+<h4>A weather website provides real-time weather information and forecasts to help users plan their activities. These websites usually offer various services, including:</h4>
+<ul>
+  <li>Current Weather Conditions: Displays the temperature, humidity, wind speed, air pressure, visibility, and other relevant metrics in real time. Users can access this information for their specific location or any place around the world.</li>
+  <li>Search Functionality: Lets users search for weather information by location, or city, ensuring they get tailored reports for any desired area.</li>
+</ul>
 
 ### [Project Name 2](https://github.com/yourusername/project2)
 > A brief description of what this project does and its key features.
