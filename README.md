@@ -28,7 +28,7 @@ I'm a passionate ***Software Developer*** and ***Front-End Developer*** focused 
 <ul>
   <li>Current Weather Conditions: Displays the temperature, humidity, wind speed, air pressure, visibility, and other relevant metrics in real time. Users can access this information for their specific location or any place around the world.</li>
   <li>Search Functionality: Lets users search for weather information by location, or city, ensuring they get tailored reports for any desired area.</li>
-  <li>Light/Dark Mode Enable</li>
+  <li>Light/Dark Mode Enable.</li>
 </ul>
 
 ### [Project Name 2](https://github.com/yourusername/project2)
