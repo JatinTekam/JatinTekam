@@ -51,7 +51,7 @@ I'm a passionate ***Software Developer*** and ***Front-End Developer*** focused 
 
 ## 💼 Resume
 
-Feel free to check out my resume: [Your Resume Link](https://yourlink.com)
+Feel free to check out my resume: [My Resume](https://drive.google.com/file/d/10yCF607q66YqW2c2kZuu4tc8YEebrzkG/view?usp=drive_link)
 
 ---
 
