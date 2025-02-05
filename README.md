@@ -31,7 +31,7 @@ I'm a passionate ***Software Developer*** and ***Front-End Developer*** focused 
   <li>Light/Dark Mode Enable.</li>
 </ul>
 
-### [Project Name 2](https://github.com/yourusername/project2)
+### [2. One Stop](https://github.com/yourusername/project2)
 > A brief description of what this project does and its key features.
 
 ### [Project Name 3](https://github.com/yourusername/project3)
