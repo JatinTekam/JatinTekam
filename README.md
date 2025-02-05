@@ -31,8 +31,11 @@ I'm a passionate ***Software Developer*** and ***Front-End Developer*** focused 
   <li>Light/Dark Mode Enable.</li>
 </ul>
 
-### [2. One Stop](https://github.com/yourusername/project2)
-> A brief description of what this project does and its key features.
+### [2. One Stop](https://github.com/JatinTekam/OneStop-Extension)
+<h4>One Stop Is Extension Used For Managing All Your Social Media Links.</h4>
+<ul>
+  <li>Used Local Storage For Storing All User Social Media Links</li>
+</ul>
 
 ### [Project Name 3](https://github.com/yourusername/project3)
 > A brief description of what this project does and its key features.
