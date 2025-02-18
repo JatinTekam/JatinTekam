@@ -37,8 +37,10 @@ I'm a passionate ***Software Developer*** and ***Front-End Developer*** focused 
   <li>Used Local Storage For Storing All User Social Media Links</li>
 </ul>
 
-### [3. Portfolio](https://github.com/yourusername/project3)
-> A brief description of what this project does and its key features.
+### [3. Portfolio](https://github.com/JatinTekam/portfolio-website)
+> <ul>
+  <li>In my portfolio, you’ll find a showcase of my work that demonstrate my expertise in Front End Development & Java Development.</li>
+</ul>
 
 ## 🌱 Currently Learning
 
