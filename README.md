@@ -37,7 +37,7 @@ I'm a passionate ***Software Developer*** and ***Front-End Developer*** focused 
   <li>Used Local Storage For Storing All User Social Media Links</li>
 </ul>
 
-### [Project Name 3](https://github.com/yourusername/project3)
+### [3. Portfolio](https://github.com/yourusername/project3)
 > A brief description of what this project does and its key features.
 
 ## 🌱 Currently Learning
