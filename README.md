@@ -1,5 +1,5 @@
 <h1>Hello Wrold 👋 </h1>
-# 👋 Hi there, I'm <strong>Jatin Tekam</strong>
+👋 Hi there, I'm <strong>Jatin Tekam</strong>
 
 I'm a passionate ***Software Developer*** and ***Front-End Developer*** focused on building seamless user experiences. Welcome to my GitHub profile!
 
@@ -19,6 +19,11 @@ I'm a passionate ***Software Developer*** and ***Front-End Developer*** focused 
   <img src="https://github.com/saarthack/portfolio/blob/main/images/java-logo-1.png" width="50px">
   <img src="https://github.com/saarthack/portfolio/blob/main/images/mongodb-min.png" width="50px">
   <img src="https://github.com/saarthack/portfolio/blob/main/images/node-min.png" width="50px">
+  <img src="https://github.com/saarthack/portfolio/blob/main/images/express.png" width="50px">
+  <img src="https://github.com/saarthack/portfolio/blob/main/images/gsap-min.png" width="50px">
+  <img src="https://github.com/saarthack/portfolio/blob/main/images/redux.png" width="50px">
+  <img src="https://github.com/saarthack/portfolio/blob/main/images/tailwind.png
+" width="50px">
 </div>
 
 <h3>Projects</h3>
