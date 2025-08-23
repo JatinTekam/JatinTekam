@@ -28,7 +28,44 @@ I'm a passionate ***Software Developer*** and ***Front-End Developer*** focused 
 
 <h3>Projects</h3>
 
-### [1. Weather Website](https://github.com/JatinTekam/Weather-Website)
+### [1. full-stack e-commerce application](https://riveshopping.netlify.app/)
+<h4>This is a comprehensive full-stack e-commerce application designed to provide a seamless online shopping experience for users Built with modern web technologies, it features a robust backend, and secure payment processing.</h4>
+<ul>
+  <li>This project is built with React for the frontend, Java Spring Boot for the backend, and Neon Postgres for the database.</li>
+
+ ## Frontend:  
+✅ React.js: A JavaScript library for building user interfaces.
+
+✅ React Router DOM: For declarative routing in React applications.
+
+✅ React Redux: Implemented Redux for state management.
+
+✅ Axios: A promise-based HTTP client for making API requests.
+
+✅ Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
+
+✅ State Management: Redux Toolkit
+
+ ## Backend:
+
+ ✅ Java: The primary programming language.
+
+✅ Spring Boot: A framework that simplifies the development of production-ready, stand-alone Spring applications.
+
+✅ Spring Data JPA: For easy database interaction and object-relational mapping.
+
+✅ Database: Neon PostgreSQL
+
+✅ Build Tool: Maven
+
+✅ Authentication/Authorization: Spring Security JWT
+
+✅ RESTful APIs: For communication between frontend and backend.
+
+✅ Payment Gateway Integration: Razorpay API.
+
+
+### [2. Weather Website](https://github.com/JatinTekam/Weather-Website)
 <h4>A weather website provides real-time weather information and forecasts to help users plan their activities. These websites usually offer various services, including:</h4>
 <ul>
   <li>Current Weather Conditions: Displays the temperature, humidity, wind speed, air pressure, visibility, and other relevant metrics in real time. Users can access this information for their specific location or any place around the world.</li>
@@ -36,13 +73,13 @@ I'm a passionate ***Software Developer*** and ***Front-End Developer*** focused 
   <li>Light/Dark Mode Enable.</li>
 </ul>
 
-### [2. One Stop](https://github.com/JatinTekam/OneStop-Extension)
+### [3. One Stop](https://github.com/JatinTekam/OneStop-Extension)
 <h4>One Stop Is Extension Used For Managing All Your Social Media Links.</h4>
 <ul>
   <li>Used Local Storage For Storing All User Social Media Links</li>
 </ul>
 
-### [3. Portfolio](https://github.com/JatinTekam/portfolio-website)
+### [4. Portfolio](https://github.com/JatinTekam/portfolio-website)
 > <ul>
   <li>In my portfolio, you’ll find a showcase of my work that demonstrate my expertise in Front End Development & Java Development.</li>
 </ul>
