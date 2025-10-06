@@ -1,7 +1,7 @@
 <h1>Hello Wrold 👋 </h1>
 👋 Hi there, I'm <strong>Jatin Tekam</strong>
 
-I'm a passionate ***Software Developer*** and ***Front-End Developer*** focused on building seamless user experiences. Welcome to my GitHub profile!
+I'm a passionate ***Software Developer*** and ***Full-Stack Developer*** focused on building seamless user experiences. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
