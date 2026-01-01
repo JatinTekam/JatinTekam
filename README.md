@@ -97,7 +97,7 @@ I'm a passionate ***Software Developer*** and ***Full-Stack Developer*** focused
 
 ## 💼 Resume
 
-Feel free to check out my resume: [My Resume](https://drive.google.com/file/d/1V-mDNjjz1ubfGxAwn-zr4sG4rnWn_dOk/view?usp=sharing)
+Feel free to check out my resume: [My Resume](https://drive.google.com/file/d/1Ns_IK9rKAfq7oPxDPvAxNSTwKphYyvOy/view?usp=sharing)
 
 ---
 
