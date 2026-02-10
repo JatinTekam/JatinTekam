@@ -27,7 +27,7 @@ A focused, practical developer building polished web experiences.
 
 - Email: <mailto:tekamjatin@gmail.com>
 - LinkedIn: https://linkedin.com/in/jatin-tekam
-- Resume: https://drive.google.com/file/d/1fiS8vJqg4pdBSlGsRMtV07x3B8sfg9ed/view?usp=sharing
+- Resume: https://drive.google.com/file/d/1FNRmIcTwEVPbsHuyt0u7U4xuRItLfgXg/view?usp=sharing
 
 ---
 
